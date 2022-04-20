@@ -1,0 +1,41 @@
+[
+  {
+    "expr1": 1,
+    "expr2": "Vietnam",
+    "id": 1,
+    "departmentName": "Sales",
+    "firstname": "Vy",
+    "expr3": 1,
+    "countryId": 1,
+    "gender": 1,
+    "departmentId": 1,
+    "univeristyId": 2,
+    "lastname": "Do Nhu"
+  },
+  {
+    "expr1": 2,
+    "expr2": "U.S.",
+    "id": 2,
+    "departmentName": "Accounting",
+    "firstname": "James",
+    "expr3": 2,
+    "countryId": 2,
+    "gender": 1,
+    "departmentId": 2,
+    "univeristyId": 2,
+    "lastname": "Braham"
+  },
+  {
+    "expr1": 3,
+    "expr2": "UK",
+    "id": 3,
+    "departmentName": "Purchasing",
+    "firstname": "Tom",
+    "expr3": 3,
+    "countryId": 2,
+    "gender": 1,
+    "departmentId": 2,
+    "univeristyId": 2,
+    "lastname": "Brashon"
+  }
+]
